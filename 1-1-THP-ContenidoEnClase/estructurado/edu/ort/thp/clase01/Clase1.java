@@ -4,7 +4,7 @@ public class Clase1 {
 
 	public static void main(String[] args) {
 		int edad = 18;
-		final int MAYORIA = 16; // final es necesario si la variable es constante, deja de ser variable y pasa a
+		final int MAYORIA = 16; // Final es necesario si la variable es constante, deja de ser variable y pasa a
 								// ser constante tiene que estar en mayusculas
 		String nombre = "Florencia";
 
